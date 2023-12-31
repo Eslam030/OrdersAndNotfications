@@ -1,0 +1,12 @@
+{
+ "Account sample login" : {
+    "id" : 13 ,
+    "username" : "test" ,
+    "password" : "123546"
+  } , "Account registration sample" : {
+      "id" : 13 ,
+      "username" : "test" ,
+      "password" : "123546" , "name" : "eslam" ,  "phone":  "01157228162" , "address" : "el dokki" ,
+      "balance" : 12.5 , "preferedLang" : "English"
+      }
+}
